@@ -79,7 +79,7 @@ spec:
               git add values.yaml
               git commit -m 'Triggered Build'
               //git push https://$GIT_CREDS_USR:$GIT_CREDS_PSW@github.com/$GIT_CREDS_USR/rsvpapp-helm-cicd.git
-              git push https://joymondal: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@github.com/joymondal/rsvpapp-helm-cicd.git
+              git push https://joymondal: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@github.com/joymondal/rsvpapp-helm-cicd.git
             '''
           }
         }
